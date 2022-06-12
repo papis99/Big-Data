@@ -32,4 +32,7 @@ J'ai utilisé le systeme de recommandation collaboratif ALS en utilisant Spark M
 **Étape 3 :**   Par le meilleur modèle obtenu à l'étape ci-dessus, faire des prédictions des notes sur les films dans l'ensemble de test et calculer le RMSE pour évaluer les performances du modèle préparent l'étape suivante.  
   
 **Étape 4 :**   Dans cette étape, j'utilise les résultats de prédiction du meilleur modèle pour recommander 5 films pour tous les ID utilisateur.
- mais aussi recommander des films à l'utilisateur numéro 100.
+ mais aussi recommander des films à l'utilisateur numéro 100.  
+   
+     
+--------------------------------------------**Clicker [Ici](https://github.com/papis99/Big-Data/blob/main/Filtering_collaborative(pyspark).ipynb) pour plus de détailler pour ce programme**------------------------------------
