@@ -1,4 +1,4 @@
-#Systeme de Recommandation Filtering Collaborative avec Pyspark exemple Movie Lens
+_Systeme de Recommandation Filtering Collaborative avec Pyspark exemple Movie Lens_
 
 Clicker Ici pour plus de détail  
 Dans ce bloc-notes, l'algorithme Alternating Least Squares (ALS) sera utilisé avec les API Spark pour prédire les notes des films dans le petit ensemble de données MovieLens  
